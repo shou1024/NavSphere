@@ -122,6 +122,14 @@
           "description": "各类教程",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b713b1fb-91ed-44bf-ac27-cdd9e0778b20",
+          "title": "搜索引擎",
+          "icon": "Search",
+          "description": "资源搜索引擎",
+          "enabled": true,
+          "items": []
         }
       ]
     },
