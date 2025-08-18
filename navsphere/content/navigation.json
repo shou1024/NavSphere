@@ -204,7 +204,16 @@
       "title": "系统镜像",
       "icon": "Laptop",
       "items": [],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "e30de8e4-cf38-42d3-a4fa-378661d0d4e1",
+          "title": "镜像网站",
+          "icon": "Laptop",
+          "description": "系统镜像网站",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "系统镜像、工具",
       "enabled": true
     },
