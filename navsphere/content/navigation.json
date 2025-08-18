@@ -114,6 +114,14 @@
           "description": "音乐在线试听下载",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "39b90749-858a-43e9-ab1f-88ef173fc132",
+          "title": "教程",
+          "icon": "Users",
+          "description": "各类教程",
+          "enabled": true,
+          "items": []
         }
       ]
     },
