@@ -66,6 +66,14 @@
           "description": "阅读APP书源",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "520c5fd2-172d-4c79-9d46-5126ec92610c",
+          "title": "视频源",
+          "icon": "Box",
+          "description": "类似TVBOX之类的APP的视频源",
+          "enabled": true,
+          "items": []
         }
       ]
     },
