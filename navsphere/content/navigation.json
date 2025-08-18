@@ -158,14 +158,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
-          "title": "录屏工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "0ed6d8b1-effe-4535-8cde-60ec38f9c96c",
           "title": "AI 检测工具",
           "icon": "BookOpen",
