@@ -105,48 +105,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
-          "title": "短剧",
-          "icon": "Coffee",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736418296509",
-              "title": "HDmoli电影网",
-              "href": "https://www.hdmoli.com",
-              "description": "发布页面",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1736911347619",
-              "title": "奈非工厂",
-              "href": "https://www.netflixgc.com",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
-          "title": "其它",
-          "icon": "MessageSquare",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
           "title": "在线影视",
           "icon": "Globe",
@@ -191,6 +149,48 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
+          "title": "短剧",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1736418296509",
+              "title": "HDmoli电影网",
+              "href": "https://www.hdmoli.com",
+              "description": "发布页面",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1736911347619",
+              "title": "奈非工厂",
+              "href": "https://www.netflixgc.com",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
+          "title": "其它",
+          "icon": "MessageSquare",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1752554261491",
+              "title": "MCP Server 集合站",
+              "href": "https://smithery.ai/",
+              "description": "各种各样的 MCP Server",
+              "icon": "/assets/img_1752554273115.png",
               "enabled": true
             }
           ]
