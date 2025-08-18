@@ -82,6 +82,14 @@
           "description": "有声小说、相声、评书等",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1e7d6291-8cce-467d-8e3c-05d4c8c48802",
+          "title": "游戏资源",
+          "icon": "Target",
+          "description": "游戏资讯、下载等",
+          "enabled": true,
+          "items": []
         }
       ]
     },
