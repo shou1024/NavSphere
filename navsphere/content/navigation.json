@@ -74,6 +74,14 @@
           "description": "类似TVBOX之类的APP的视频源",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "2c1212b9-2d76-4392-8df6-57f9df0106a6",
+          "title": "有声资源",
+          "icon": "BarChart",
+          "description": "有声小说、相声、评书等",
+          "enabled": true,
+          "items": []
         }
       ]
     },
