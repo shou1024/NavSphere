@@ -138,6 +138,14 @@
           "description": "PPT模板",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "854ddc58-5319-4185-8ae9-29f05460fd29",
+          "title": "网盘资源",
+          "icon": "Cloud",
+          "description": "网盘资源汇总",
+          "enabled": true,
+          "items": []
         }
       ]
     },
