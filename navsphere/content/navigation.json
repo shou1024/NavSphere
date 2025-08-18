@@ -58,6 +58,14 @@
           "description": "电子书",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ebb19a7b-37c8-4749-a5c8-dffe7ee34700",
+          "title": "书源",
+          "icon": "Book",
+          "description": "阅读APP书源",
+          "enabled": true,
+          "items": []
         }
       ]
     },
