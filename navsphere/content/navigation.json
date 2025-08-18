@@ -153,7 +153,7 @@
     },
     {
       "id": "2",
-      "title": "常用工具",
+      "title": "系统镜像",
       "icon": "Laptop",
       "items": [],
       "subCategories": [
@@ -203,7 +203,7 @@
           "enabled": true
         }
       ],
-      "description": "",
+      "description": "系统镜像、工具",
       "enabled": true
     },
     {
