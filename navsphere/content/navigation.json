@@ -220,6 +220,14 @@
           "description": "系统工具",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c77e6396-e3bd-40a1-a2c7-cae9d1a5526b",
+          "title": "系统激活",
+          "icon": "Shield",
+          "description": "系统激活工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "系统镜像、工具",
