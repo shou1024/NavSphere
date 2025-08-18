@@ -100,8 +100,8 @@
     },
     {
       "id": "9",
-      "title": "AI工具包",
-      "icon": "Brain",
+      "title": "在线影视",
+      "icon": "Video",
       "items": [],
       "subCategories": [
         {
@@ -196,7 +196,7 @@
           ]
         }
       ],
-      "description": "",
+      "description": "追剧、看电影",
       "enabled": true
     },
     {
