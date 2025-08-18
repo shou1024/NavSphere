@@ -103,9 +103,9 @@
     },
     {
       "id": "1735433560958",
-      "title": "自媒体工具包",
-      "icon": "Video",
-      "description": "自媒体工具包",
+      "title": "工具网站",
+      "icon": "Settings",
+      "description": "在线工具",
       "enabled": true,
       "items": [],
       "subCategories": [
