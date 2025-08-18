@@ -50,7 +50,16 @@
       "description": "各类资源",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "0ab396ae-3713-44e2-95cd-a5320b3d7a0a",
+          "title": "电子书",
+          "icon": "BookOpen",
+          "description": "电子书",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1735433560958",
