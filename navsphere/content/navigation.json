@@ -204,17 +204,7 @@
       "title": "系统镜像",
       "icon": "Laptop",
       "items": [],
-      "subCategories": [
-        {
-          "id": "7",
-          "title": "在线配色",
-          "href": "#在线配色",
-          "icon": "Book",
-          "description": "",
-          "items": [],
-          "enabled": true
-        }
-      ],
+      "subCategories": [],
       "description": "系统镜像、工具",
       "enabled": true
     },
