@@ -156,7 +156,16 @@
       "description": "在线工具",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "dd115a1c-1282-4b2a-99f5-ac6b3dcf0042",
+          "title": "在线工具",
+          "icon": "Globe",
+          "description": "在线工具",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "2",
