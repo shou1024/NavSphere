@@ -130,6 +130,14 @@
           "description": "资源搜索引擎",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "3f402b33-11c0-4a0e-a2af-168cc6a19bed",
+          "title": "PPT模板",
+          "icon": "LayoutList",
+          "description": "PPT模板",
+          "enabled": true,
+          "items": []
         }
       ]
     },
