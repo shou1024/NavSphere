@@ -106,6 +106,14 @@
           "description": "资源导航网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "07f75ba9-742d-46ca-b79f-d0030c1301b1",
+          "title": "音乐",
+          "icon": "Music",
+          "description": "音乐在线试听下载",
+          "enabled": true,
+          "items": []
         }
       ]
     },
