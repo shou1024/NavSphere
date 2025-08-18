@@ -50,16 +50,7 @@
       "description": "各类资源",
       "enabled": true,
       "items": [],
-      "subCategories": [
-        {
-          "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1735433560958",
