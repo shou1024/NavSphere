@@ -212,6 +212,14 @@
           "description": "系统镜像网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8c3fc11e-8141-40f5-b43c-c21a0343bd33",
+          "title": "系统工具",
+          "icon": "Network",
+          "description": "系统工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "系统镜像、工具",
