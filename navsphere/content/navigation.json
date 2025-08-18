@@ -158,14 +158,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
-          "title": "国内平台",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
           "title": "国外平台",
           "icon": "Book",
