@@ -208,8 +208,8 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
+      "title": "新奇网站",
+      "icon": "LayoutGrid",
       "items": [],
       "subCategories": [
         {
@@ -236,7 +236,9 @@
           "description": "",
           "items": []
         }
-      ]
+      ],
+      "description": "各种稀奇古怪的网站",
+      "enabled": true
     }
   ]
 }
