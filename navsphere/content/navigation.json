@@ -105,6 +105,48 @@
       "items": [],
       "subCategories": [
         {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
+          "title": "短剧",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1736418296509",
+              "title": "Napkin",
+              "href": "https://www.napkin.ai/",
+              "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
+              "icon": "/assets/img_1736418335098.png",
+              "enabled": true
+            },
+            {
+              "id": "1736911347619",
+              "title": "gamma",
+              "href": "https://gamma.app/",
+              "description": "AI生成PPT工具",
+              "icon": "/assets/img_1736911490095.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
+          "title": "其它",
+          "icon": "MessageSquare",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1752554261491",
+              "title": "MCP Server 集合站",
+              "href": "https://smithery.ai/",
+              "description": "各种各样的 MCP Server",
+              "icon": "/assets/img_1752554273115.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
           "title": "在线影视",
           "icon": "Globe",
@@ -149,48 +191,6 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
-          "title": "短剧",
-          "icon": "Coffee",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736418296509",
-              "title": "Napkin",
-              "href": "https://www.napkin.ai/",
-              "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
-              "icon": "/assets/img_1736418335098.png",
-              "enabled": true
-            },
-            {
-              "id": "1736911347619",
-              "title": "gamma",
-              "href": "https://gamma.app/",
-              "description": "AI生成PPT工具",
-              "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
-          "title": "其它",
-          "icon": "MessageSquare",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
               "enabled": true
             }
           ]
