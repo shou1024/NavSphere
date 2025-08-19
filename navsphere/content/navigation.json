@@ -69,6 +69,14 @@
               "description": "发现最新、最热门的电影、电视剧、动漫、综艺和纪录片。免费在线观看，无需注册。畅享高质量的视频内容和最新的新闻资讯。",
               "icon": "/assets/favicon_1755592484438.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755592612055_v3v9j73mk",
+              "title": "百思派电影网",
+              "href": "https://www.bestpipe.cn",
+              "description": "访问 www.bestpipe.cn",
+              "icon": "/assets/favicon_1755592558661.png",
+              "enabled": true
             }
           ]
         },
