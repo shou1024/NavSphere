@@ -117,6 +117,14 @@
               "description": "访问 www.tingdegang.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tingdegang.com",
               "enabled": true
+            },
+            {
+              "id": "site_1755593308044_ng6g9te2d",
+              "title": "在线之家",
+              "href": "https://www.zxzjhd.com",
+              "description": "努力打造在线之家为最好的海外热门影视剧在线观看站点!",
+              "icon": "/assets/favicon_1755593288584.ico",
+              "enabled": true
             }
           ]
         },
