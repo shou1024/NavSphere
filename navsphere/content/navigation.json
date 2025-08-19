@@ -158,6 +158,14 @@
               "description": "短剧 网盘分享",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wpdj.wang",
               "enabled": true
+            },
+            {
+              "id": "site_1755593568679_h77n4e422",
+              "title": "短剧号",
+              "href": "https://duanjuhao.top",
+              "description": "一个免费的短剧网盘聚合",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=duanjuhao.top",
+              "enabled": true
             }
           ]
         },
