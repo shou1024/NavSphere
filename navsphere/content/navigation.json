@@ -53,6 +53,14 @@
               "description": "片吧影院是一个免费在线看电影电视剧的网站，提供高清热播电影电视剧在线观看，vip院线电影、热播国产剧每日实时更新,提供最优质便捷的服务，手机看最新热播电影电视剧就上片吧影院。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pbkan.com",
               "enabled": true
+            },
+            {
+              "id": "site_1755592386847_2bnhr9pdj",
+              "title": "爱壹帆",
+              "href": "https://www.iyf.lv",
+              "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
+              "icon": "/assets/favicon_1755592374015.png",
+              "enabled": true
             }
           ]
         },
