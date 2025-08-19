@@ -45,6 +45,14 @@
               "description": "羽路影搜为您免费解析主流视频网站的VIP视频,支持爱奇艺、腾讯、优酷、乐视、芒果、搜狐、PPTV等等，可搜索最新的免费福利视频、电影和电视剧资源，欢迎使用！",
               "icon": "/assets/favicon_1755592121971.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755592319274_pgcbpwj1x",
+              "title": "片吧影院",
+              "href": "https://www.pbkan.com",
+              "description": "片吧影院是一个免费在线看电影电视剧的网站，提供高清热播电影电视剧在线观看，vip院线电影、热播国产剧每日实时更新,提供最优质便捷的服务，手机看最新热播电影电视剧就上片吧影院。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pbkan.com",
+              "enabled": true
             }
           ]
         },
