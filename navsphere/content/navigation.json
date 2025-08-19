@@ -93,6 +93,14 @@
               "description": "网飞猫-ncat1.app-看电影，可以改变人生！奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
               "icon": "/assets/favicon_1755592718534.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755592782122_9x7s7c812",
+              "title": "小鸭看看",
+              "href": "https://xiaoyakankan.com",
+              "description": "每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
+              "icon": "/assets/favicon_1755592775247.png",
+              "enabled": true
             }
           ]
         },
