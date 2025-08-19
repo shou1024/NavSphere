@@ -150,6 +150,14 @@
               "description": "BT电影下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yikedy.cc",
               "enabled": true
+            },
+            {
+              "id": "site_1755592869208_8rphuqmkt",
+              "title": "6v电影",
+              "href": "https://www.hao6v.tv",
+              "description": "电影磁力下载",
+              "icon": "/assets/favicon_1755592821775.png",
+              "enabled": true
             }
           ]
         }
