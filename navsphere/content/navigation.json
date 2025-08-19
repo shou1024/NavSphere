@@ -78,6 +78,14 @@
               "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
               "icon": "/assets/favicon_1755591741754.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755591937460_38vqvica8",
+              "title": "一刻电影",
+              "href": "https://www.yikedy.cc",
+              "description": "BT电影下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yikedy.cc",
+              "enabled": true
             }
           ]
         }
