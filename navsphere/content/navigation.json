@@ -134,7 +134,16 @@
           "icon": "MessageSquare",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755593233451_0ojotk86w",
+              "title": "Ayouth的影视站点推荐",
+              "href": "https://ayouth.top/ayouth/video.html",
+              "description": "持续更新的影视站点发布页，超实用，不可错过！",
+              "icon": "/assets/favicon_1755593211292.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b0d2d47c-ef04-41ee-953c-904305aa6ec7",
