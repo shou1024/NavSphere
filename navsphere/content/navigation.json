@@ -285,6 +285,14 @@
               "description": "你想要的计算机经典书籍，这里都有！",
               "icon": "/assets/favicon_1755616298975.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755616472038_4zuled6yh",
+              "title": "仿版 知轩藏书",
+              "href": "https://zxcs.info",
+              "description": "知轩藏书 仿站",
+              "icon": "/assets/favicon_1755616403061.png",
+              "enabled": true
             }
           ]
         },
