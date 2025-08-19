@@ -277,7 +277,16 @@
           "icon": "BookOpen",
           "description": "电子书",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755616335926_lxqm8ptk4",
+              "title": "计算机经典书籍",
+              "href": "https://github.com/Jackpopc/CS-Books-Store",
+              "description": "你想要的计算机经典书籍，这里都有！",
+              "icon": "/assets/favicon_1755616298975.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ebb19a7b-37c8-4749-a5c8-dffe7ee34700",
