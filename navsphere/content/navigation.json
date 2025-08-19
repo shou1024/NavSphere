@@ -70,6 +70,14 @@
               "description": "4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界",
               "icon": "/assets/favicon_1755591418844.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755591753967_gzd3edue8",
+              "title": "磁力熊 - 豆瓣高分电影1080P下载",
+              "href": "https://www.cilixiong.org",
+              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
+              "icon": "/assets/favicon_1755591741754.png",
+              "enabled": true
             }
           ]
         }
