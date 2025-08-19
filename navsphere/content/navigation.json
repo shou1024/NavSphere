@@ -199,6 +199,14 @@
               "description": "qq在线文档",
               "icon": "/assets/favicon_1755593740697.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755593858278_0x6mncdze",
+              "title": "awesome-iptv",
+              "href": "https://github.com/DangJin/awesome-iptv",
+              "description": "汇总了一些可用的网络电视频道（IPTV）集合的优秀项目. Contribute to DangJin/awesome-iptv development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1755593817222.png",
+              "enabled": true
             }
           ]
         },
