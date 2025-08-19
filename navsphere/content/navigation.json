@@ -85,6 +85,14 @@
               "description": "八号影视 BaHaoTv.Com您推荐最新最新的电影,电视剧,综艺,动漫高清在线观看,无需下载任何播放器即可在线免费观看,欢迎八号影视网影迷们来本站免费观看电影,动漫及电视剧。",
               "icon": "/assets/favicon_1755592660721.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755592734251_ndbmyg9z2",
+              "title": "网飞猫",
+              "href": "https://www.ncat21.com",
+              "description": "网飞猫-ncat1.app-看电影，可以改变人生！奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
+              "icon": "/assets/favicon_1755592718534.ico",
+              "enabled": true
             }
           ]
         },
