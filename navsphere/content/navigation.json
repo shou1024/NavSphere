@@ -61,6 +61,14 @@
               "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
               "icon": "/assets/favicon_1755592374015.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755592506927_8wwzevpah",
+              "title": "iQIYIs影院",
+              "href": "https://iqiyis.com",
+              "description": "发现最新、最热门的电影、电视剧、动漫、综艺和纪录片。免费在线观看，无需注册。畅享高质量的视频内容和最新的新闻资讯。",
+              "icon": "/assets/favicon_1755592484438.ico",
+              "enabled": true
             }
           ]
         },
