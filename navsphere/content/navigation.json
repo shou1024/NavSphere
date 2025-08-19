@@ -191,6 +191,14 @@
               "description": "持续更新的影视站点发布页，超实用，不可错过！",
               "icon": "/assets/favicon_1755593211292.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755593788051_73duut30q",
+              "title": "口袋影视",
+              "href": "https://docs.qq.com/sheet/DY1liVUNiWWNnUUxz?tab=BB08J2",
+              "description": "qq在线文档",
+              "icon": "/assets/favicon_1755593740697.png",
+              "enabled": true
             }
           ]
         },
