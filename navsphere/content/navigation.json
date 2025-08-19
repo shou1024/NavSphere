@@ -293,6 +293,14 @@
               "description": "知轩藏书 仿站",
               "icon": "/assets/favicon_1755616403061.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755616529930_m1n4pv7gm",
+              "title": "书荒部落",
+              "href": "https://noveless.com",
+              "description": "书荒部落",
+              "icon": "/assets/favicon_1755616516880.ico",
+              "enabled": true
             }
           ]
         },
