@@ -77,6 +77,14 @@
               "description": "访问 www.bestpipe.cn",
               "icon": "/assets/favicon_1755592558661.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755592678611_mqdfaigcg",
+              "title": "八号影视",
+              "href": "https://www.bahaotv.com",
+              "description": "八号影视 BaHaoTv.Com您推荐最新最新的电影,电视剧,综艺,动漫高清在线观看,无需下载任何播放器即可在线免费观看,欢迎八号影视网影迷们来本站免费观看电影,动漫及电视剧。",
+              "icon": "/assets/favicon_1755592660721.png",
+              "enabled": true
             }
           ]
         },
