@@ -132,7 +132,7 @@
           "id": "b0d2d47c-ef04-41ee-953c-904305aa6ec7",
           "title": "影视下载",
           "icon": "Zap",
-          "description": "高清影视资源下载",
+          "description": "",
           "enabled": true,
           "items": [
             {
