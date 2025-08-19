@@ -101,6 +101,14 @@
               "description": "每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。",
               "icon": "/assets/favicon_1755592775247.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755593022176_lsmt3itwf",
+              "title": "蛋蛋剧",
+              "href": "https://www.dandanju.vip",
+              "description": "网址发布页  只能手机观看",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dandanju.vip",
+              "enabled": true
             }
           ]
         },
