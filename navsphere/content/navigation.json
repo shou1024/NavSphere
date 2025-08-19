@@ -21,7 +21,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755591139011_jcyo1msbq",
+              "title": "Hdmoli",
+              "href": "https://www.hdmoli.com",
+              "description": "网址发布页",
+              "icon": "/assets/favicon_1755591090531.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
