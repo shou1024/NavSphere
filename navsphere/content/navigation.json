@@ -62,7 +62,16 @@
           "icon": "Zap",
           "description": "高清影视资源下载",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755591430887_yjzfkjut1",
+              "title": "4K影视小站-专业的4K影视下载站",
+              "href": "https://4kysxz.top",
+              "description": "4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界",
+              "icon": "/assets/favicon_1755591418844.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "追剧、看电影",
