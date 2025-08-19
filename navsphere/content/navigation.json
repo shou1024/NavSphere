@@ -37,6 +37,14 @@
               "description": "访问 www.netflixgc.com",
               "icon": "/assets/favicon_1755591175874.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755592133256_rfdo7s3wy",
+              "title": "羽路影视搜搜",
+              "href": "https://ysss.cf",
+              "description": "羽路影搜为您免费解析主流视频网站的VIP视频,支持爱奇艺、腾讯、优酷、乐视、芒果、搜狐、PPTV等等，可搜索最新的免费福利视频、电影和电视剧资源，欢迎使用！",
+              "icon": "/assets/favicon_1755592121971.png",
+              "enabled": true
             }
           ]
         },
