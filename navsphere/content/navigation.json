@@ -150,6 +150,14 @@
               "description": "全网免费短剧网盘合集",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=duanjugou.top",
               "enabled": true
+            },
+            {
+              "id": "site_1755593530009_xek1d9bpq",
+              "title": "王牌短剧",
+              "href": "https://wpdj.wang",
+              "description": "短剧 网盘分享",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wpdj.wang",
+              "enabled": true
             }
           ]
         },
