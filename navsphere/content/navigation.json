@@ -166,6 +166,14 @@
               "description": "一个免费的短剧网盘聚合",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=duanjuhao.top",
               "enabled": true
+            },
+            {
+              "id": "site_1755593613551_g924z59of",
+              "title": "夸克短剧",
+              "href": "https://www.kuakema.com",
+              "description": "夸克短剧为您提供2024年最新最全的短剧夸克网盘资源,夸克短剧,抖音短剧,快手短剧,热门短剧,短剧大全，免费短剧网盘资源免费分享平台(kuakema.com)。",
+              "icon": "/assets/favicon_1755593599454.ico",
+              "enabled": true
             }
           ]
         },
