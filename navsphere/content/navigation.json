@@ -301,6 +301,14 @@
               "description": "书荒部落",
               "icon": "/assets/favicon_1755616516880.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755616566740_eevd7vczx",
+              "title": "精校吧",
+              "href": "https://www.jingjiaoba.com",
+              "description": "精校吧是一个给书友提供下载网络精校txt小说、完本电子书的网站。本站的宗旨是以为书友推荐网络上人气精品的完本精校版小说、完本校对版小说，是书荒者必上小说下载网站！",
+              "icon": "/assets/favicon_1755616549654.ico",
+              "enabled": true
             }
           ]
         },
