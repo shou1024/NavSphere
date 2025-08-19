@@ -435,16 +435,7 @@
       "title": "新奇网站",
       "icon": "LayoutGrid",
       "items": [],
-      "subCategories": [
-        {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
-          "description": "",
-          "items": []
-        }
-      ],
+      "subCategories": [],
       "description": "各种稀奇古怪的网站",
       "enabled": true
     }
