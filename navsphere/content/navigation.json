@@ -29,6 +29,14 @@
               "description": "网址发布页",
               "icon": "/assets/favicon_1755591090531.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755591202659_80wcrnmf1",
+              "title": "Netflixgc",
+              "href": "https://www.netflixgc.com",
+              "description": "访问 www.netflixgc.com",
+              "icon": "/assets/favicon_1755591175874.png",
+              "enabled": true
             }
           ]
         },
