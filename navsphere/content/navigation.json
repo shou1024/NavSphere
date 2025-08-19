@@ -70,6 +70,14 @@
               "description": "4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界",
               "icon": "/assets/favicon_1755591418844.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755591633410_b4ls7be50",
+              "title": "不太灵影视",
+              "href": "https://www.butailing.com/",
+              "description": "网址发布页  ",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.butailing.com",
+              "enabled": true
             }
           ]
         }
