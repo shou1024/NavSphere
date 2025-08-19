@@ -129,6 +129,55 @@
           ]
         },
         {
+          "id": "b0d2d47c-ef04-41ee-953c-904305aa6ec7",
+          "title": "影视下载",
+          "icon": "Zap",
+          "description": "高清影视资源下载",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1755591430887_yjzfkjut1",
+              "title": "4K影视小站",
+              "href": "https://4kysxz.top",
+              "description": "4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界",
+              "icon": "/assets/favicon_1755591418844.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755591753967_gzd3edue8",
+              "title": "磁力熊",
+              "href": "https://www.cilixiong.org",
+              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
+              "icon": "/assets/favicon_1755591741754.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755591937460_38vqvica8",
+              "title": "一刻电影",
+              "href": "https://www.yikedy.cc",
+              "description": "BT电影下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yikedy.cc",
+              "enabled": true
+            },
+            {
+              "id": "site_1755592869208_8rphuqmkt",
+              "title": "6v电影",
+              "href": "https://www.hao6v.tv",
+              "description": "电影磁力下载",
+              "icon": "/assets/favicon_1755592821775.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755593715002_ieuim1754",
+              "title": "剧王",
+              "href": "https://ppat.top",
+              "description": "剧仓有源是专注于免费影视资源的综合平台，汇聚国内外海量电影、电视剧、综艺及动漫内容，涵盖动作、爱情、悬疑、科幻等全题材类型。每日实时更新热门影视，采用无广告高清播放技术，无需注册即可一键观看，支持多设备离线下载。无论是最新上映的院线大片，还是经典怀旧的影视佳作，均可在此轻松获取，为影视爱好者提供便捷、流畅的追剧体验，打造专属的影视资源聚集地。",
+              "icon": "/assets/favicon_1755593639754.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
           "title": "短剧",
           "icon": "Coffee",
@@ -206,55 +255,6 @@
               "href": "https://github.com/DangJin/awesome-iptv",
               "description": "汇总了一些可用的网络电视频道（IPTV）集合的优秀项目. Contribute to DangJin/awesome-iptv development by creating an account on GitHub.",
               "icon": "/assets/favicon_1755593817222.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "b0d2d47c-ef04-41ee-953c-904305aa6ec7",
-          "title": "影视下载",
-          "icon": "Zap",
-          "description": "高清影视资源下载",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1755591430887_yjzfkjut1",
-              "title": "4K影视小站",
-              "href": "https://4kysxz.top",
-              "description": "4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界",
-              "icon": "/assets/favicon_1755591418844.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1755591753967_gzd3edue8",
-              "title": "磁力熊",
-              "href": "https://www.cilixiong.org",
-              "description": "磁力熊提供1080P高清电影磁力迅雷下载,豆瓣Top250及豆瓣高分电影1080P高清磁力下载。",
-              "icon": "/assets/favicon_1755591741754.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1755591937460_38vqvica8",
-              "title": "一刻电影",
-              "href": "https://www.yikedy.cc",
-              "description": "BT电影下载",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yikedy.cc",
-              "enabled": true
-            },
-            {
-              "id": "site_1755592869208_8rphuqmkt",
-              "title": "6v电影",
-              "href": "https://www.hao6v.tv",
-              "description": "电影磁力下载",
-              "icon": "/assets/favicon_1755592821775.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1755593715002_ieuim1754",
-              "title": "剧王",
-              "href": "https://ppat.top",
-              "description": "剧仓有源是专注于免费影视资源的综合平台，汇聚国内外海量电影、电视剧、综艺及动漫内容，涵盖动作、爱情、悬疑、科幻等全题材类型。每日实时更新热门影视，采用无广告高清播放技术，无需注册即可一键观看，支持多设备离线下载。无论是最新上映的院线大片，还是经典怀旧的影视佳作，均可在此轻松获取，为影视爱好者提供便捷、流畅的追剧体验，打造专属的影视资源聚集地。",
-              "icon": "/assets/favicon_1755593639754.png",
               "enabled": true
             }
           ]
