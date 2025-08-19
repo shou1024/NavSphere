@@ -113,7 +113,16 @@
           "icon": "Music",
           "description": "音乐在线试听下载",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755586208915_8hsxqmd3x",
+              "title": "无损音乐下载",
+              "href": "https://flac.music.hi.cn",
+              "description": "无损音乐下载&在线听歌-极简，对接酷我支持 flac 无损格式，无广告",
+              "icon": "/assets/favicon_1755585862834.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "39b90749-858a-43e9-ab1f-88ef173fc132",
