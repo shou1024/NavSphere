@@ -4,7 +4,16 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755781392985_hjbnut6yk",
+          "title": "MoonTV",
+          "href": "https://moontv-6s0.pages.dev",
+          "description": "自用 影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=moontv-6s0.pages.dev",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
