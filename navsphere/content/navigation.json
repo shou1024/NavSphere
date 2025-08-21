@@ -467,6 +467,14 @@
           "description": "网盘资源汇总",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6723b9dd-d36a-40ba-a6c0-dc8f1f31ab38",
+          "title": "图片壁纸",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
