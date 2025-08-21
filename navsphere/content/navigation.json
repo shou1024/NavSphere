@@ -608,6 +608,14 @@
           "description": "在电脑和手机浏览器里畅玩 2500+ 中文老游戏，支持触屏、键盘、存档！包括 FC, SFC, N64, GB, GBC, GBA, NDS 等多种游戏机平台。",
           "icon": "/assets/favicon_1755819983736.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755820035417_0hawpl6a9",
+          "title": "盐神居",
+          "href": "https://saltsgod.com",
+          "description": "免费知乎盐选网站",
+          "icon": "/assets/favicon_1755820017708.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
