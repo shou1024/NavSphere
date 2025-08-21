@@ -648,6 +648,14 @@
           "description": "我爱菜园网是国内专业的种菜学院，目前学院开设了阳台种菜播种育苗班、阳台种菜土壤肥料班、病虫害防治班、种菜日常管理班、还有多位优秀的老师亲自指导种菜",
           "icon": "/assets/favicon_1755820191616.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820294019_hebjopnx1",
+          "title": "学种菜网",
+          "href": "https://www.xuezhongcai.com",
+          "description": "水果、蔬菜、粮食、中药等种植",
+          "icon": "/assets/favicon_1755820229631.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
