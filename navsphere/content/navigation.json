@@ -383,7 +383,16 @@
           "icon": "Target",
           "description": "游戏资讯、下载等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755781291277_dg4mqr3v9",
+              "title": "梨子乐游戏",
+              "href": "https://lzlgo.com",
+              "description": "单机 手游",
+              "icon": "/assets/favicon_1755781223126.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "f78b0216-7536-4588-9f4f-77f129874e4b",
