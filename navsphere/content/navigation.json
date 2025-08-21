@@ -325,6 +325,14 @@
               "description": "我的书城网是广大书友最值得收藏的网络小说阅读网,我的书城网收录了当前最火热的网络小说,我的书城网免费提供高质量的小说最新章节,我的书城网是广大网络小说爱好者的小说阅读网。",
               "icon": "/assets/favicon_1755616600267.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755780984970_qihmmzpt6",
+              "title": "飞库文学",
+              "href": "https://www.feiku6.com",
+              "description": "高质量出版书籍",
+              "icon": "/assets/favicon_1755780924081.png",
+              "enabled": true
             }
           ]
         },
