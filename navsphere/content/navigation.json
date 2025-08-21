@@ -616,6 +616,14 @@
           "description": "免费知乎盐选网站",
           "icon": "/assets/favicon_1755820017708.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820101802_evlzajw49",
+          "title": "河南高速摄像头",
+          "href": "https://weixin.hngscloud.com/#/",
+          "description": "河南高速实时摄像头",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=weixin.hngscloud.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
