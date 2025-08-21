@@ -680,6 +680,14 @@
           "description": "抖音网页小游戏合集",
           "icon": "/assets/favicon_1755820457625.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820571533_62kefmajo",
+          "title": "坑多多",
+          "href": "https://www.kengdodo.com",
+          "description": "骗局套路揭秘",
+          "icon": "/assets/favicon_1755820526905.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
