@@ -624,6 +624,14 @@
           "description": "河南高速实时摄像头",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=weixin.hngscloud.com",
           "enabled": true
+        },
+        {
+          "id": "site_1755820143628_bu0h5x6aa",
+          "title": "全球高清实况摄像头",
+          "href": "https://www.skylinewebcams.com",
+          "description": "全球各地最美旅游景点实况摄像头！",
+          "icon": "/assets/favicon_1755820126396.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
