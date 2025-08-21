@@ -509,7 +509,16 @@
           "icon": "Globe",
           "description": "在线工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755819946843_meit54bua",
+              "title": "手绘风格白板",
+              "href": "https://excalidraw.com",
+              "description": "开源虚拟手绘风格白板",
+              "icon": "/assets/favicon_1755819907769.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
