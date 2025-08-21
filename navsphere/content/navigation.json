@@ -125,6 +125,14 @@
               "description": "努力打造在线之家为最好的海外热门影视剧在线观看站点!",
               "icon": "/assets/favicon_1755593288584.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755780848883_q4ywafkfo",
+              "title": "飞流视频",
+              "href": "https://www.flixflop.com",
+              "description": "飞流视频是一个在线视频媒体平台，致力于提供丰富且最新的内容，如电影、电视剧、动漫、综艺、纪录片等，主要满足用户免费在线观看视频的需求。",
+              "icon": "/assets/favicon_1755780826003.png",
+              "enabled": true
             }
           ]
         },
