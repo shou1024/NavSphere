@@ -575,6 +575,14 @@
           "description": "复古音乐电台",
           "icon": "/assets/favicon_1755819704815.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755819798299_kvvkn52u9",
+          "title": "Generate Mesh Gradients",
+          "href": "https://meshgradient.in",
+          "description": "自定义渐变色",
+          "icon": "/assets/favicon_1755819763148.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
