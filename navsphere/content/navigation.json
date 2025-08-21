@@ -543,7 +543,16 @@
       "id": "8",
       "title": "新奇网站",
       "icon": "LayoutGrid",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1755781667682_j613q6b52",
+          "title": "中国高校学科评估排名",
+          "href": "https://wiibil.dpdns.org",
+          "description": "中国高校学科评估排名系统 - 提供最新第四轮学科评估数据，覆盖哲学、经济学、法学等门类。按学科查询高校排名，找到A+、A、B+等评级的高校和专业。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wiibil.dpdns.org",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "各种稀奇古怪的网站",
       "enabled": true
