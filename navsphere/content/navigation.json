@@ -559,6 +559,14 @@
           "description": "中国高校学科评估排名系统 - 提供最新第四轮学科评估数据，覆盖哲学、经济学、法学等门类。按学科查询高校排名，找到A+、A、B+等评级的高校和专业。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wiibil.dpdns.org",
           "enabled": true
+        },
+        {
+          "id": "site_1755819640484_1q0ssxiex",
+          "title": "Microsculpture",
+          "href": "https://microsculpture.net",
+          "description": "观察昆虫",
+          "icon": "/assets/favicon_1755819594314.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
