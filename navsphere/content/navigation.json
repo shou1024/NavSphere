@@ -640,6 +640,14 @@
           "description": "分享有用经验，打破信息茧房",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=yyjingyan.com",
           "enabled": true
+        },
+        {
+          "id": "site_1755820212941_z73qx9h9i",
+          "title": "我爱菜园网",
+          "href": "https://www.yzci.com",
+          "description": "我爱菜园网是国内专业的种菜学院，目前学院开设了阳台种菜播种育苗班、阳台种菜土壤肥料班、病虫害防治班、种菜日常管理班、还有多位优秀的老师亲自指导种菜",
+          "icon": "/assets/favicon_1755820191616.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
