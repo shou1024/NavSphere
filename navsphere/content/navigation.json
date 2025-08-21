@@ -542,6 +542,14 @@
               "description": "完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn",
               "icon": "/assets/favicon_1755820692193.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755820783823_mveccfkq3",
+              "title": "UUP dump",
+              "href": "https://uupdump.net",
+              "description": "UUP dump 允许你直接从 Windows 更新下载统一更新平台（Unified Update Platform）的文件，例如 Windows 预览体验计划更新。",
+              "icon": "/assets/favicon_1755820763851.png",
+              "enabled": true
             }
           ]
         },
