@@ -672,6 +672,14 @@
           "description": "在线斯诺克台球",
           "icon": "/assets/favicon_1755820391985.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820494539_3xo4yujkf",
+          "title": "抖音小游戏合集",
+          "href": "https://docs.qq.com/doc/DR1BQUm1wc0FpbU1S",
+          "description": "抖音网页小游戏合集",
+          "icon": "/assets/favicon_1755820457625.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
