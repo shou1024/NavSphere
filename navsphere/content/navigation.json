@@ -266,6 +266,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "34843b26-79b2-436e-bf5f-4542c446316e",
+          "title": "动漫",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "追剧、看电影",
