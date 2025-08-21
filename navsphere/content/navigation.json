@@ -191,7 +191,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755781142713_1mdhvrip5",
+              "title": "MX动漫",
+              "href": "https://www.mxdm.xyz",
+              "description": "MX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
+              "icon": "/assets/favicon_1755781124095.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
