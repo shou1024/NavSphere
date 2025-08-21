@@ -567,6 +567,14 @@
           "description": "观察昆虫",
           "icon": "/assets/favicon_1755819594314.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1755819732713_lueonh9a8",
+          "title": "Nightwave Plaza",
+          "href": "https://plaza.one",
+          "description": "复古音乐电台",
+          "icon": "/assets/favicon_1755819704815.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
