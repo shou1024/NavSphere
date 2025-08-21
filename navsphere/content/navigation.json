@@ -688,6 +688,14 @@
           "description": "骗局套路揭秘",
           "icon": "/assets/favicon_1755820526905.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820659554_9ljl6ktyv",
+          "title": "Nokia 3250",
+          "href": "https://chaz.fun/phone/3250/",
+          "description": "在线体验Nokia 3250",
+          "icon": "/assets/favicon_1755820595589.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
