@@ -664,6 +664,14 @@
           "description": "中国曲谱网是国内知名曲谱网站。遵循专业、精准、规范、实用的原则，收录简谱、五线谱、吉他谱、钢琴谱、戏曲等数十万精品曲谱，大量词(曲)作者驻站发布作品。并且设有曲谱专辑、作者索引、谱友论坛、在线电子书等特色栏目。",
           "icon": "/assets/favicon_1755820316493.png",
           "enabled": true
+        },
+        {
+          "id": "site_1755820429244_k1l3z04dr",
+          "title": "SNOOKER",
+          "href": "http://www.heyzxz.me/pcol/",
+          "description": "在线斯诺克台球",
+          "icon": "/assets/favicon_1755820391985.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
