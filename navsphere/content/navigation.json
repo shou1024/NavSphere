@@ -375,6 +375,14 @@
               "description": "在线漫画",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.baozimhcn.com",
               "enabled": true
+            },
+            {
+              "id": "site_1755868278710_yckqm47bm",
+              "title": "老画报网",
+              "href": "http://www.laohuabao.com",
+              "description": "老画报、老连环画",
+              "icon": "/assets/favicon_1755868209732.png",
+              "enabled": true
             }
           ]
         },
