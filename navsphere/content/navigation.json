@@ -517,6 +517,14 @@
               "description": "开源虚拟手绘风格白板",
               "icon": "/assets/favicon_1755819907769.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755822012302_dagcj60jw",
+              "title": "转换文件格式",
+              "href": "https://www.aconvert.com/cn/",
+              "description": "在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。",
+              "icon": "/assets/favicon_1755821971685.png",
+              "enabled": true
             }
           ]
         }
