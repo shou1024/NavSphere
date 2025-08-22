@@ -549,6 +549,22 @@
               "description": "域名IP查询",
               "icon": "/assets/favicon_1755867141108.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867220034_ka2fsnkae",
+              "title": "法律文库",
+              "href": "https://www.justlaws.cn",
+              "description": "法律查询 法律和法律都是相互依存的",
+              "icon": "/assets/favicon_1755867186852.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755867226942_5bq3zge7k",
+              "title": "法律文库",
+              "href": "https://www.justlaws.cn",
+              "description": "法律查询 法律和法律都是相互依存的",
+              "icon": "/assets/favicon_1755867186852.png",
+              "enabled": true
             }
           ]
         },
