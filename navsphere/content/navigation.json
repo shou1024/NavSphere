@@ -432,7 +432,16 @@
           "icon": "Book",
           "description": "阅读APP书源",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755868802672_yf2p369uk",
+              "title": "阅读APP源",
+              "href": "https://legado.aoaostar.com",
+              "description": "阅读APP源",
+              "icon": "/assets/favicon_1755868787018.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "520c5fd2-172d-4c79-9d46-5126ec92610c",
