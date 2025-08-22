@@ -575,6 +575,14 @@
               "description": "用U盘做一个PE启动盘，以后安装和维护系统就无忧了",
               "icon": "/assets/favicon_1755820948272.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755821186965_z05htv4r8",
+              "title": "下载缺失的 DLL 文件",
+              "href": "https://cn.dll-files.com",
+              "description": "免费下载缺失的 DLL 文件以修复 DLL 错误。如果您想获得安装 DLL 文件的帮助，DLL&#8209;files.com Client 就是您需要的 DLL fixer。",
+              "icon": "/assets/favicon_1755821145593.png",
+              "enabled": true
             }
           ]
         },
