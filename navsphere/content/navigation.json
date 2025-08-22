@@ -597,6 +597,14 @@
               "description": "为幼小学生设计的练习题和字帖生成工具，帮助孩子提升学习效果，培养良好的学习习惯。",
               "icon": "/assets/favicon_1755867458431.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867563665_i062p7803",
+              "title": "红豆饭简笔画",
+              "href": "https://hongdoufan.com",
+              "description": "小学生简笔画大全",
+              "icon": "/assets/favicon_1755867508521.png",
+              "enabled": true
             }
           ]
         },
