@@ -541,6 +541,14 @@
               "description": "微信生态工具导航",
               "icon": "/assets/favicon_1755867029631.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867167844_3mtruil91",
+              "title": "域名查iP",
+              "href": "https://site.ip138.com",
+              "description": "域名IP查询",
+              "icon": "/assets/favicon_1755867141108.png",
+              "enabled": true
             }
           ]
         },
