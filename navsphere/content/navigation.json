@@ -584,7 +584,16 @@
           "icon": "Shield",
           "description": "系统激活工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755821054901_pk3xumrq5",
+              "title": "爱好网",
+              "href": "https://webact.185.hk/sharedkey.php",
+              "description": "密钥分享网站！",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=webact.185.hk",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "系统镜像、工具",
