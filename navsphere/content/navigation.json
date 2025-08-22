@@ -565,6 +565,14 @@
               "description": "法律查询 法律和法律都是相互依存的",
               "icon": "/assets/favicon_1755867186852.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867303780_y37bw6y6w",
+              "title": "帮小忙",
+              "href": "https://tool.browser.qq.com",
+              "description": "工具导航",
+              "icon": "/assets/favicon_1755867250921.png",
+              "enabled": true
             }
           ]
         },
