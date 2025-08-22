@@ -550,6 +550,14 @@
               "description": "UUP dump 允许你直接从 Windows 更新下载统一更新平台（Unified Update Platform）的文件，例如 Windows 预览体验计划更新。",
               "icon": "/assets/favicon_1755820763851.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755820854986_4k8gss42o",
+              "title": "系统之家",
+              "href": "https://www.xitongzhijia.net",
+              "description": "GHOST版系统镜像下载基地，雨林木风，深度技术，番茄花园等各家版本都有",
+              "icon": "/assets/favicon_1755820810651.png",
+              "enabled": true
             }
           ]
         },
