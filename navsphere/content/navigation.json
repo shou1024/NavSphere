@@ -629,6 +629,14 @@
               "description": "找词找句子",
               "icon": "/assets/favicon_1755867748062.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867860395_7w5ndng1l",
+              "title": "丁爸网",
+              "href": "http://www.dingba.top/sy",
+              "description": "情报分析师的工具箱",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dingba.top",
+              "enabled": true
             }
           ]
         },
