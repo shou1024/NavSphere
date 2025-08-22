@@ -605,6 +605,14 @@
               "description": "小学生简笔画大全",
               "icon": "/assets/favicon_1755867508521.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867652252_2rbo5tm4t",
+              "title": "十三资源库",
+              "href": "https://tool.joia.cn",
+              "description": "IOS资源",
+              "icon": "/assets/favicon_1755867613401.png",
+              "enabled": true
             }
           ]
         },
