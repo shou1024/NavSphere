@@ -482,7 +482,16 @@
           "icon": "BarChart",
           "description": "有声小说、相声、评书等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755869080310_2c2ie676r",
+              "title": "海洋听书网",
+              "href": "http://www.ychy.org",
+              "description": "在线有声小说",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ychy.org",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1e7d6291-8cce-467d-8e3c-05d4c8c48802",
