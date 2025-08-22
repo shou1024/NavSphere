@@ -573,6 +573,14 @@
               "description": "工具导航",
               "icon": "/assets/favicon_1755867250921.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867387186_dhvfx66dr",
+              "title": "兔小乖",
+              "href": "https://www.tuxiaoguai.com",
+              "description": "字帖打印",
+              "icon": "/assets/favicon_1755867355248.png",
+              "enabled": true
             }
           ]
         },
