@@ -534,7 +534,16 @@
           "icon": "Database",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755866793999_nl29ss5a0",
+              "title": "LMMS",
+              "href": "https://lmms.io",
+              "description": "开源跨平台作曲工具",
+              "icon": "/assets/favicon_1755866764438.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
