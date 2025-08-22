@@ -383,6 +383,14 @@
               "description": "老画报、老连环画",
               "icon": "/assets/favicon_1755868209732.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755868333829_7ff9g998v",
+              "title": "巴士书库手机版",
+              "href": "https://m.84sk.com",
+              "description": "巴士书库手机版",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.84sk.com",
+              "enabled": true
             }
           ]
         },
