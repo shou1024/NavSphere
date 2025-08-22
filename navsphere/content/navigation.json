@@ -407,6 +407,14 @@
               "description": "经典珍藏",
               "icon": "/assets/favicon_1755868596703.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755868710477_wiub7bnlz",
+              "title": "毛泽东选集",
+              "href": "https://qiaochenglei.cn/e/mzd/index.htm",
+              "description": "毛泽东选集在线阅读",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=qiaochenglei.cn",
+              "enabled": true
             }
           ]
         },
