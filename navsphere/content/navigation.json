@@ -415,6 +415,14 @@
               "description": "毛泽东选集在线阅读",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=qiaochenglei.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1755868761024_fqdr9g7tq",
+              "title": "八零电子书",
+              "href": "https://txt80.cc",
+              "description": "八零电子书提供精彩小说阅读,各种小说排行榜,免费好看的小说,提供穿越小说,都市小说,言情小说,玄幻小说,重生小说,网游小说,武侠小说,历史小说等全本全集完结小说在线阅读及txt下载.优秀小说尽在TXT80.cc。",
+              "icon": "/assets/favicon_1755868747779.ico",
+              "enabled": true
             }
           ]
         },
