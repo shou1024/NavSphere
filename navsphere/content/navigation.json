@@ -359,6 +359,14 @@
               "description": "高质量出版书籍",
               "icon": "/assets/favicon_1755780924081.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755868098997_l0i5wfeaz",
+              "title": "连环画",
+              "href": "https://wx.zhlhh.com/zhejianglib",
+              "description": "连环画阅读",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wx.zhlhh.com",
+              "enabled": true
             }
           ]
         },
