@@ -525,6 +525,14 @@
               "description": "在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。",
               "icon": "/assets/favicon_1755821971685.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755866989251_omp6pnmz3",
+              "title": "1分钟视频教程网",
+              "href": "https://www.pc6.com/video/",
+              "description": "1分钟视频教程网",
+              "icon": "/assets/favicon_1755866945184.png",
+              "enabled": true
             }
           ]
         },
