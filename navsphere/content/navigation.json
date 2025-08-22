@@ -506,6 +506,14 @@
               "description": "评书随身听:评书全集在线收听,评书大全免费听,评书mp3免费下载!提供袁阔成,单田芳,刘兰芳,田连元,连丽如,张少佐,田战义等评书表演艺术家的精选评书.荟萃经典评书,传播中华文化!评书随身听:www.psmp3.com",
               "icon": "/assets/favicon_1755869204403.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755869301069_sozfw3hpx",
+              "title": "幻听网",
+              "href": "https://www.huanting.cc",
+              "description": "在线有声小说",
+              "icon": "/assets/favicon_1755869234610.png",
+              "enabled": true
             }
           ]
         },
