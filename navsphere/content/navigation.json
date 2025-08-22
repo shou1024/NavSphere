@@ -448,6 +448,14 @@
               "description": "源仓库最新网址获取地址，源仓库官方网站",
               "icon": "/assets/favicon_1755868824746.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755868882092_ia14auivm",
+              "title": "明月书阁",
+              "href": "https://skybook.pages.dev",
+              "description": "明月照大江发布页",
+              "icon": "/assets/favicon_1755868863957.ico",
+              "enabled": true
             }
           ]
         },
