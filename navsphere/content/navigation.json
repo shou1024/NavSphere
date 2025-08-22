@@ -613,6 +613,14 @@
               "description": "IOS资源",
               "icon": "/assets/favicon_1755867613401.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867718668_yo7cewv4c",
+              "title": "JiDrop",
+              "href": "https://jidrop.com",
+              "description": "跨设备文件传输助手，无需安装，使用浏览器跨平台互相发送文件。",
+              "icon": "/assets/favicon_1755867697506.png",
+              "enabled": true
             }
           ]
         },
