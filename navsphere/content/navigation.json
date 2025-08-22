@@ -440,6 +440,14 @@
               "description": "阅读APP源",
               "icon": "/assets/favicon_1755868787018.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755868844465_9m56jjrf2",
+              "title": "源仓库地址发布",
+              "href": "https://yckceo.vip",
+              "description": "源仓库最新网址获取地址，源仓库官方网站",
+              "icon": "/assets/favicon_1755868824746.png",
+              "enabled": true
             }
           ]
         },
