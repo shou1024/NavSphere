@@ -533,6 +533,14 @@
               "description": "1分钟视频教程网",
               "icon": "/assets/favicon_1755866945184.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867081244_n71z5oyex",
+              "title": "微信生态工具",
+              "href": "https://navi.weixinhost.com",
+              "description": "微信生态工具导航",
+              "icon": "/assets/favicon_1755867029631.png",
+              "enabled": true
             }
           ]
         },
