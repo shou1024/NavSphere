@@ -589,6 +589,14 @@
               "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
               "icon": "/assets/favicon_1755867408386.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867489155_fzjhemxnb",
+              "title": "答印",
+              "href": "https://www.dayin.page",
+              "description": "为幼小学生设计的练习题和字帖生成工具，帮助孩子提升学习效果，培养良好的学习习惯。",
+              "icon": "/assets/favicon_1755867458431.png",
+              "enabled": true
             }
           ]
         },
