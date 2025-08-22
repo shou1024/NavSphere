@@ -391,6 +391,14 @@
               "description": "巴士书库手机版",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.84sk.com",
               "enabled": true
+            },
+            {
+              "id": "site_1755868577922_hd60rrxpk",
+              "title": "北大出版社电子书架",
+              "href": "https://pup6.yunzhan365.com/bookcase/jmyr/index.html",
+              "description": "可在线查看目录、样章、申请样书！",
+              "icon": "/assets/favicon_1755868560274.png",
+              "enabled": true
             }
           ]
         },
