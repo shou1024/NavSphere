@@ -465,7 +465,16 @@
           "icon": "Box",
           "description": "类似TVBOX之类的APP的视频源",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755868989995_c5t2eibcu",
+              "title": "电视盒子源表",
+              "href": "https://cyuan.netlify.app",
+              "description": "电视盒子源表",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cyuan.netlify.app",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2c1212b9-2d76-4392-8df6-57f9df0106a6",
