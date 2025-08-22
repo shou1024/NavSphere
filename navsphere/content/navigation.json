@@ -567,7 +567,16 @@
           "icon": "Network",
           "description": "系统工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755821007347_2wstwomff",
+              "title": "优启通",
+              "href": "https://www.itsk.com",
+              "description": "用U盘做一个PE启动盘，以后安装和维护系统就无忧了",
+              "icon": "/assets/favicon_1755820948272.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c77e6396-e3bd-40a1-a2c7-cae9d1a5526b",
