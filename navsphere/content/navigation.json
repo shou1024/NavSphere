@@ -621,6 +621,14 @@
               "description": "跨设备文件传输助手，无需安装，使用浏览器跨平台互相发送文件。",
               "icon": "/assets/favicon_1755867697506.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755867779192_u84c6dqbo",
+              "title": "深言达意",
+              "href": "https://www.shenyandayi.com",
+              "description": "找词找句子",
+              "icon": "/assets/favicon_1755867748062.png",
+              "enabled": true
             }
           ]
         },
