@@ -399,6 +399,14 @@
               "description": "可在线查看目录、样章、申请样书！",
               "icon": "/assets/favicon_1755868560274.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755868646329_d0x9nkcaz",
+              "title": "时光图书馆",
+              "href": "https://atimebook.com",
+              "description": "经典珍藏",
+              "icon": "/assets/favicon_1755868596703.png",
+              "enabled": true
             }
           ]
         },
