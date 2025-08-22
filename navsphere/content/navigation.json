@@ -367,6 +367,14 @@
               "description": "连环画阅读",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wx.zhlhh.com",
               "enabled": true
+            },
+            {
+              "id": "site_1755868176846_00bfedp18",
+              "title": "包子漫画",
+              "href": "https://cn.baozimhcn.com",
+              "description": "在线漫画",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cn.baozimhcn.com",
+              "enabled": true
             }
           ]
         },
