@@ -629,6 +629,14 @@
               "description": "图片壁纸",
               "icon": "/assets/favicon_1755782503669.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756044438670_hiywz0k2k",
+              "title": "恋风壁纸",
+              "href": "https://www.luvbree.com",
+              "description": "恋风壁纸提供高质量电脑壁纸和手机壁纸下载，让您的设备与众不同。免费壁纸，高清壁纸，美丽图片。",
+              "icon": "/assets/favicon_1756044423344.ico",
+              "enabled": true
             }
           ]
         }
