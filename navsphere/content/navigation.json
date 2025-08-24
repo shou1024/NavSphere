@@ -423,6 +423,14 @@
               "description": "八零电子书提供精彩小说阅读,各种小说排行榜,免费好看的小说,提供穿越小说,都市小说,言情小说,玄幻小说,重生小说,网游小说,武侠小说,历史小说等全本全集完结小说在线阅读及txt下载.优秀小说尽在TXT80.cc。",
               "icon": "/assets/favicon_1755868747779.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756044400003_ylrwmc08e",
+              "title": "宝阳悦读网",
+              "href": "https://www.mq59.com",
+              "description": "免费电子书下载与书单推荐",
+              "icon": "/assets/favicon_1756044337156.png",
+              "enabled": true
             }
           ]
         },
