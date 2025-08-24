@@ -431,6 +431,14 @@
               "description": "免费电子书下载与书单推荐",
               "icon": "/assets/favicon_1756044337156.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756046400680_3fyv4tfmz",
+              "title": "小故事铺",
+              "href": "https://storynook.cn",
+              "description": "在线儿童睡前故事",
+              "icon": "/assets/favicon_1756046372463.png",
+              "enabled": true
             }
           ]
         },
