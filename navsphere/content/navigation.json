@@ -960,7 +960,16 @@
           "icon": "Search",
           "description": "资源搜索引擎",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756111279997_9wkv0tijx",
+              "title": "无极磁力",
+              "href": "https://cili.st",
+              "description": "无极磁力 是国际知名的磁力链分享网站、磁力资源搜索引擎。本站是无极磁力官方网址发布平台，访问本站即可直达无极磁链最新域名。",
+              "icon": "/assets/favicon_1756111257837.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "3f402b33-11c0-4a0e-a2af-168cc6a19bed",
