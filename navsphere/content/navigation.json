@@ -1097,6 +1097,14 @@
               "description": "优品PPT模板网是一家专注于分享高质量的免费PPT模板下载网站，包括图表、背景图片、素材、教程等各类PPT模板相关资源。致力于打造国内最大最权威的PPT下载一站式服务平台。",
               "icon": "/assets/favicon_1756112270209.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112326247_p0hrtgb69",
+              "title": "第一PPT",
+              "href": "https://www.1ppt.com",
+              "description": "访问 www.1ppt.com",
+              "icon": "/assets/favicon_1756112304540.png",
+              "enabled": true
             }
           ]
         },
