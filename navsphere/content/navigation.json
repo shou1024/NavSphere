@@ -1121,6 +1121,14 @@
               "description": "微软官方模板",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.officeplus.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1756112638489_orzmlxr34",
+              "title": "HiPPTER",
+              "href": "https://www.hippter.com",
+              "description": "PPT模板导航站",
+              "icon": "/assets/favicon_1756112594823.png",
+              "enabled": true
             }
           ]
         },
