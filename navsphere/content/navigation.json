@@ -692,6 +692,14 @@
               "description": "设计类软件下载",
               "icon": "/assets/favicon_1756108213841.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108342858_t6bsl7mdp",
+              "title": "adobe全家桶",
+              "href": "https://www.yuque.com/u12142785/pr7i0q",
+              "description": "全平台 adobe全家桶破解版",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com",
+              "enabled": true
             }
           ]
         },
