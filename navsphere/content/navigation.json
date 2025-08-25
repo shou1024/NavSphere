@@ -1081,6 +1081,14 @@
               "description": "访问 www.2ppt.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.2ppt.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756112250209_ffnkszprm",
+              "title": "51PPT模板",
+              "href": "https://www.51pptmoban.com",
+              "description": "访问 www.51pptmoban.com",
+              "icon": "/assets/favicon_1756112229923.png",
+              "enabled": true
             }
           ]
         },
