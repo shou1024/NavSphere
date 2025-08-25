@@ -790,6 +790,14 @@
               "description": "支持中文",
               "icon": "/assets/favicon_1756109603619.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756109709947_olgjwecjl",
+              "title": "小森平",
+              "href": "https://taira-komori.net/freesoundcn.html",
+              "description": "免费下载音效 小森平 日本 大家好!",
+              "icon": "/assets/favicon_1756109683638.png",
+              "enabled": true
             }
           ]
         },
