@@ -870,6 +870,14 @@
               "description": "免费MP3下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.33ve.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756110541681_53n55muv6",
+              "title": "放屁网",
+              "href": "https://www.fangpi.net",
+              "description": "放屁网在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+              "icon": "/assets/favicon_1756110525872.ico",
+              "enabled": true
             }
           ]
         },
