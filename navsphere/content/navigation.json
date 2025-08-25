@@ -579,6 +579,14 @@
               "description": "在线模拟器",
               "icon": "/assets/favicon_1756107203063.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107366551_04kl1f7qc",
+              "title": "小妖怪分享",
+              "href": "https://www.zzzz688.top",
+              "description": "永久地址发布页",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zzzz688.top",
+              "enabled": true
             }
           ]
         },
