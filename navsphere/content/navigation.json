@@ -555,6 +555,14 @@
               "description": "单机、Switch游戏\n",
               "icon": "/assets/favicon_1756106992571.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107109049_b5401miqc",
+              "title": "Switch618",
+              "href": "https://www.switch618.com",
+              "description": "无会员无套路免费公益游戏网站",
+              "icon": "/assets/favicon_1756107084998.png",
+              "enabled": true
             }
           ]
         },
