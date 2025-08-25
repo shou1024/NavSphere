@@ -1016,6 +1016,14 @@
               "description": "盘了个盘 聚合云盘高效搜索，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
               "icon": "/assets/favicon_1756111755479.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756111878722_holk5i7zb",
+              "title": "TG搜索",
+              "href": "https://www.telsearch.me",
+              "description": "Telegram 群组、频道、机器人",
+              "icon": "/assets/favicon_1756111829655.png",
+              "enabled": true
             }
           ]
         },
