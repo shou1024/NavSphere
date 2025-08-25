@@ -547,6 +547,14 @@
               "description": "单机 手游",
               "icon": "/assets/favicon_1755781223126.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107058470_4zdwxqqpo",
+              "title": "乐猪游戏",
+              "href": "https://www.lezhugame.com",
+              "description": "单机、Switch游戏\n",
+              "icon": "/assets/favicon_1756106992571.png",
+              "enabled": true
             }
           ]
         },
