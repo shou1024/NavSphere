@@ -822,6 +822,14 @@
               "description": "无损音乐下载",
               "icon": "/assets/favicon_1756110002609.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110118525_86uwfuriw",
+              "title": "音乐盘",
+              "href": "https://music.gimhoy.com",
+              "description": "免费音乐外链",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.gimhoy.com",
+              "enabled": true
             }
           ]
         },
