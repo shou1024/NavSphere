@@ -749,6 +749,14 @@
               "description": "律师 尽调导航 法律尽调 法律科技",
               "icon": "/assets/favicon_1756108824449.jpeg",
               "enabled": true
+            },
+            {
+              "id": "site_1756109080711_3ui3evr1l",
+              "title": "硬核指南",
+              "href": "https://yinghezhinan.com",
+              "description": "追剧、看书、游戏、音乐……",
+              "icon": "/assets/favicon_1756108994735.png",
+              "enabled": true
             }
           ]
         },
