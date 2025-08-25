@@ -1228,6 +1228,14 @@
               "description": "情报分析师的工具箱",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dingba.top",
               "enabled": true
+            },
+            {
+              "id": "site_1756112051947_4kkf768qy",
+              "title": "Link Preview",
+              "href": "https://tmp.nulla.top/link-preview/",
+              "description": "磁力 预览工具",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tmp.nulla.top",
+              "enabled": true
             }
           ]
         },
