@@ -935,6 +935,14 @@
               "description": "计算机资讯、教程",
               "icon": "/assets/favicon_1756110901645.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756111049001_kiqnf3d2j",
+              "title": "R2coding",
+              "href": "https://www.r2coding.com",
+              "description": "Road To Coding（编程自学之路）",
+              "icon": "/assets/favicon_1756111020261.png",
+              "enabled": true
             }
           ]
         },
