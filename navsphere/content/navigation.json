@@ -968,6 +968,14 @@
               "description": "无极磁力 是国际知名的磁力链分享网站、磁力资源搜索引擎。本站是无极磁力官方网址发布平台，访问本站即可直达无极磁链最新域名。",
               "icon": "/assets/favicon_1756111257837.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756111323257_zrp2qzdb4",
+              "title": "磁力星球",
+              "href": "https://btstar.top",
+              "description": "地址发布页",
+              "icon": "/assets/favicon_1756111295195.ico",
+              "enabled": true
             }
           ]
         },
