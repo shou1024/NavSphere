@@ -1154,6 +1154,14 @@
               "description": "教育教程资源",
               "icon": "/assets/favicon_1756112754586.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112851306_fj4ppm4tp",
+              "title": "触光云盘",
+              "href": "https://pan.aichuguang.com",
+              "description": "游戏资源",
+              "icon": "/assets/favicon_1756112830458.png",
+              "enabled": true
             }
           ]
         },
