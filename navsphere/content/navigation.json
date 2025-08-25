@@ -976,6 +976,14 @@
               "description": "地址发布页",
               "icon": "/assets/favicon_1756111295195.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756111357419_bh6jjii1j",
+              "title": "磁力搜索",
+              "href": "https://cilisousuo.com",
+              "description": "磁力搜索，cilisousuo.com，磁力搜索网，磁力搜索网站，磁力搜索软件，磁力搜索app，磁力搜索工具，磁力搜索工具安卓，磁力搜索网站，磁力搜索工具windows，磁力链接，磁力引擎",
+              "icon": "/assets/favicon_1756111346685.png",
+              "enabled": true
             }
           ]
         },
