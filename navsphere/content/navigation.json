@@ -830,6 +830,14 @@
               "description": "免费音乐外链",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.gimhoy.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756110151497_vhys9cwfs",
+              "title": "种子音乐｜抖音歌曲｜免费在线Mp3听歌音乐播放器｜热门歌曲排行榜｜最新歌曲大全",
+              "href": "https://zz123.com",
+              "description": "精选2025最好听的全网歌曲,最新音乐免费畅听,抖音歌曲,分类齐全,歌曲数量丰富,更新及时.种子音乐全站收集了经典老歌,欧美流行,中文DJ等期待您的体验。",
+              "icon": "/assets/favicon_1756110141223.ico",
+              "enabled": true
             }
           ]
         },
