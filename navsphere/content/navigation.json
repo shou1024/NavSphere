@@ -627,6 +627,14 @@
               "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520",
               "icon": "/assets/favicon_1756107681883.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1756107742616_zs0x10mc5",
+              "title": "快意库",
+              "href": "https://kooink.com",
+              "description": "专注于分享各种最新最热门的单机游戏、Galgame资源、高清3D渲染图片、美女写真图片和精品同人图，全站资源免费下载，无需注册登录，无会员充值或积分系统，让您畅享高质量的游戏和视觉享受。定期更新，让您第一时间获取最优质的内容。",
+              "icon": "/assets/favicon_1756107727858.png",
+              "enabled": true
             }
           ]
         },
