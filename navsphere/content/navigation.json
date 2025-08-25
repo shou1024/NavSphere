@@ -643,6 +643,14 @@
               "description": "单机、手游、软件资讯",
               "icon": "/assets/favicon_1756107760351.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107960233_3p51cqhp0",
+              "title": "仄言资源社",
+              "href": "https://www.ziyxfxs.top",
+              "description": "单机、手游",
+              "icon": "/assets/favicon_1756107923030.png",
+              "enabled": true
             }
           ]
         },
