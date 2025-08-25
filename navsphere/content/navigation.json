@@ -1008,6 +1008,14 @@
               "description": "网盘搜索",
               "icon": "/assets/favicon_1756111714543.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1756111771365_9be6focwd",
+              "title": "盘了个盘",
+              "href": "https://www.panlegepan.com",
+              "description": "盘了个盘 聚合云盘高效搜索，提供 阿里云盘、夸克网盘、百度网盘、蓝奏网盘、迅雷网盘、天翼网盘、彩和网盘 等网盘资源搜索。更新快、资源全、速度快、免费。",
+              "icon": "/assets/favicon_1756111755479.ico",
+              "enabled": true
             }
           ]
         },
