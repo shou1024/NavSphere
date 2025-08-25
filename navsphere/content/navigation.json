@@ -700,6 +700,14 @@
               "description": "全平台 adobe全家桶破解版",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756108413924_6ej9k1j2u",
+              "title": "惊鸿一面",
+              "href": "https://www.kn21.xyz",
+              "description": "操作系统、设计软件等",
+              "icon": "/assets/favicon_1756108380574.png",
+              "enabled": true
             }
           ]
         },
