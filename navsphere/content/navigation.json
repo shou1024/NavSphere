@@ -571,6 +571,14 @@
               "description": "微软在线小游戏",
               "icon": "/assets/favicon_1756107147653.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107226545_o2pqeo24w",
+              "title": "Emu666",
+              "href": "https://www.emu666.com",
+              "description": "在线模拟器",
+              "icon": "/assets/favicon_1756107203063.png",
+              "enabled": true
             }
           ]
         },
