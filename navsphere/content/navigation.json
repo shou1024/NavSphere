@@ -846,6 +846,14 @@
               "description": "免费无损音乐MP3",
               "icon": "/assets/favicon_1756110230919.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110361461_016rani0s",
+              "title": "音微",
+              "href": "https://www.yinwe.com",
+              "description": "在线播放+下载",
+              "icon": "/assets/favicon_1756110308126.png",
+              "enabled": true
             }
           ]
         },
