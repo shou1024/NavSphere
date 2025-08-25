@@ -1113,6 +1113,14 @@
               "description": "访问 www.pptsupermarket.com",
               "icon": "/assets/favicon_1756112460381.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112568559_lgj5lg4e7",
+              "title": "Officeplus",
+              "href": "https://www.officeplus.cn",
+              "description": "微软官方模板",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.officeplus.cn",
+              "enabled": true
             }
           ]
         },
