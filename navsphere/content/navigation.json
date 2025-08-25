@@ -667,6 +667,14 @@
               "description": "单机派-专注简体中文单机游戏下载，经典怀旧单机游戏分享，无弹窗广告，所有游戏无任何捆绑，绿色单机游戏放心下载",
               "icon": "/assets/favicon_1756108136818.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108185561_phs3fjw67",
+              "title": "蒸汽游戏宝库",
+              "href": "https://www.steambk.com",
+              "description": "蒸汽游戏宝库（steambk.com）专注提供高质量Steam及经典单机游戏资源，涵盖热门大作、中文汉化版、免安装整合包下载。支持夸克盘、迅雷、UC等多网盘高速下载，提供最新游戏资讯、补丁、攻略，永久免费，为玩家打造一站式游戏下载平台。",
+              "icon": "/assets/favicon_1756108170639.png",
+              "enabled": true
             }
           ]
         },
