@@ -757,6 +757,14 @@
               "description": "追剧、看书、游戏、音乐……",
               "icon": "/assets/favicon_1756108994735.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756109881251_7e7n2wpjg",
+              "title": "刘明野的工具箱",
+              "href": "https://tools.liumingye.cn",
+              "description": "提供好用、易用的工具，还在不断添加中，欢迎访问！",
+              "icon": "/assets/favicon_1756109865002.ico",
+              "enabled": true
             }
           ]
         },
