@@ -651,6 +651,14 @@
               "description": "单机、手游",
               "icon": "/assets/favicon_1756107923030.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108116959_frmbjx3pt",
+              "title": "Cool Game",
+              "href": "https://www.ifun.cool",
+              "description": "PC、SWITCH、PS4",
+              "icon": "/assets/favicon_1756108044772.png",
+              "enabled": true
             }
           ]
         },
