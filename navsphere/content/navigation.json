@@ -1105,6 +1105,14 @@
               "description": "访问 www.1ppt.com",
               "icon": "/assets/favicon_1756112304540.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112482779_z0fatpafr",
+              "title": "PPT超级市场",
+              "href": "https://www.pptsupermarket.com",
+              "description": "访问 www.pptsupermarket.com",
+              "icon": "/assets/favicon_1756112460381.png",
+              "enabled": true
             }
           ]
         },
