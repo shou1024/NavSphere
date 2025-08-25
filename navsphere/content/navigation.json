@@ -782,6 +782,14 @@
               "description": "全球音乐、LRC歌词免费下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.musicenc.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756109648263_cuy9kdo2q",
+              "title": "俄国音乐网站",
+              "href": "https://zvu4no.org",
+              "description": "支持中文",
+              "icon": "/assets/favicon_1756109603619.ico",
+              "enabled": true
             }
           ]
         },
