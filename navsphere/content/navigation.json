@@ -587,6 +587,14 @@
               "description": "永久地址发布页",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zzzz688.top",
               "enabled": true
+            },
+            {
+              "id": "site_1756107408940_5guw9hlr4",
+              "title": "小叽资源",
+              "href": "https://steamzg.com",
+              "description": "免费单机游戏电影动漫软件分享",
+              "icon": "/assets/favicon_1756107392901.png",
+              "enabled": true
             }
           ]
         },
