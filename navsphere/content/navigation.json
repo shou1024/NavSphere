@@ -814,6 +814,14 @@
               "description": "MP3下载 支持中文",
               "icon": "/assets/favicon_1756109907853.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110035149_fhkmdu4i1",
+              "title": "音乐魔石",
+              "href": "https://yym4.com",
+              "description": "无损音乐下载",
+              "icon": "/assets/favicon_1756110002609.png",
+              "enabled": true
             }
           ]
         },
