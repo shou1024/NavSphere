@@ -611,6 +611,14 @@
               "description": "一个免费的二次元风格下载站 收录steam epic 单机资源 switch游戏 ChatGPT",
               "icon": "/assets/favicon_1756107556248.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107662613_5eyflb8g7",
+              "title": "5217社区",
+              "href": "https://www.xxx5217.com",
+              "description": "游戏、软件、影视分享站点",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xxx5217.com",
+              "enabled": true
             }
           ]
         },
