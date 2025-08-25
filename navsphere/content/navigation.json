@@ -894,6 +894,14 @@
               "description": "在线音乐",
               "icon": "/assets/favicon_1756110591588.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110686817_yac116a8b",
+              "title": "歌曲海",
+              "href": "https://www.gequhai.com",
+              "description": "MP3下载",
+              "icon": "/assets/favicon_1756110654562.png",
+              "enabled": true
             }
           ]
         },
