@@ -878,6 +878,14 @@
               "description": "放屁网在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
               "icon": "/assets/favicon_1756110525872.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756110573970_qaxkbs7mv",
+              "title": "泡椒音乐",
+              "href": "https://pjmp3.com",
+              "description": "泡椒音乐 - 在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质",
+              "icon": "/assets/favicon_1756110555835.png",
+              "enabled": true
             }
           ]
         },
