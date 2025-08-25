@@ -659,6 +659,14 @@
               "description": "PC、SWITCH、PS4",
               "icon": "/assets/favicon_1756108044772.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108147142_o2k9fi5ap",
+              "title": "单机派",
+              "href": "https://www.danjipai.com",
+              "description": "单机派-专注简体中文单机游戏下载，经典怀旧单机游戏分享，无弹窗广告，所有游戏无任何捆绑，绿色单机游戏放心下载",
+              "icon": "/assets/favicon_1756108136818.png",
+              "enabled": true
             }
           ]
         },
