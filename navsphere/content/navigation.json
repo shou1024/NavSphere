@@ -1024,6 +1024,14 @@
               "description": "Telegram 群组、频道、机器人",
               "icon": "/assets/favicon_1756111829655.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756111926107_z6r4lqz6b",
+              "title": "磁力猫",
+              "href": "https://魔法猫咪.lol/",
+              "description": "磁力猫地址发布页",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xn--vur557cbpe6y0c.lol",
+              "enabled": true
             }
           ]
         },
