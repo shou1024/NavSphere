@@ -995,6 +995,14 @@
               "description": "GHOST版系统镜像下载基地，雨林木风，深度技术，番茄花园等各家版本都有",
               "icon": "/assets/favicon_1755820810651.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108480682_ahrqj243u",
+              "title": "极简系统",
+              "href": "https://www.sysmini.com",
+              "description": "极简系统最新版本,极简系统提供XP、Win7、win10、纯净版、办公版系统下载,免激活,每月更新,一键安装，下载windows系统，爱上极简系统",
+              "icon": "/assets/favicon_1756108459352.ico",
+              "enabled": true
             }
           ]
         },
