@@ -806,6 +806,14 @@
               "description": "免费下载音效 小森平 日本 大家好!",
               "icon": "/assets/favicon_1756109683638.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756109967794_e2jo5o5fv",
+              "title": "MP3Paw",
+              "href": "https://v4.mp3paw.link/en/",
+              "description": "MP3下载 支持中文",
+              "icon": "/assets/favicon_1756109907853.png",
+              "enabled": true
             }
           ]
         },
