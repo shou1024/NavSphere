@@ -619,6 +619,14 @@
               "description": "游戏、软件、影视分享站点",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xxx5217.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756107692520_pdp4nwoqf",
+              "title": "Switch520",
+              "href": "https://www.gamer520.com",
+              "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520",
+              "icon": "/assets/favicon_1756107681883.jpg",
+              "enabled": true
             }
           ]
         },
