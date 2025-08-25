@@ -1146,6 +1146,14 @@
               "description": "阿里云盘",
               "icon": "/assets/favicon_1756112680931.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112792367_nl26gho2c",
+              "title": "酷安大学自习室",
+              "href": "https://note.youdao.com/ynoteshare/index.html?id=c54b7d5555f73a29ace8f48858ed2426&type=note&_time=1686636667692",
+              "description": "教育教程资源",
+              "icon": "/assets/favicon_1756112754586.png",
+              "enabled": true
             }
           ]
         },
