@@ -684,7 +684,16 @@
           "icon": "LayoutGrid",
           "description": "软件下载",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756108251227_028c32pho",
+              "title": "软仓",
+              "href": "https://www.ruancang.net",
+              "description": "设计类软件下载",
+              "icon": "/assets/favicon_1756108213841.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "47da636f-7e51-4ec2-a7de-965b980a337d",
