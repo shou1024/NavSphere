@@ -862,6 +862,14 @@
               "description": "在线播放",
               "icon": "/assets/favicon_1756110403848.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110505355_a2avjajcm",
+              "title": "闪闪音乐",
+              "href": "https://www.33ve.com",
+              "description": "免费MP3下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.33ve.com",
+              "enabled": true
             }
           ]
         },
