@@ -1138,7 +1138,16 @@
           "icon": "Cloud",
           "description": "网盘资源汇总",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756112716710_udw5d1vo4",
+              "title": "大鹏教育资源",
+              "href": "https://www.aliyundrive.com/s/Ptg3i4pFsT5",
+              "description": "阿里云盘",
+              "icon": "/assets/favicon_1756112680931.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6723b9dd-d36a-40ba-a6c0-dc8f1f31ab38",
