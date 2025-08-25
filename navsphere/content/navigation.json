@@ -943,6 +943,14 @@
               "description": "Road To Coding（编程自学之路）",
               "icon": "/assets/favicon_1756111020261.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756111205310_u8kyq7a2m",
+              "title": "军大君独立开发工具站",
+              "href": "https://jundagame.top",
+              "description": "游戏独立开发",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=jundagame.top",
+              "enabled": true
             }
           ]
         },
