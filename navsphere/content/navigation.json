@@ -1089,6 +1089,14 @@
               "description": "访问 www.51pptmoban.com",
               "icon": "/assets/favicon_1756112229923.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756112289933_enxjphlyk",
+              "title": "优品PPT",
+              "href": "https://www.ypppt.com",
+              "description": "优品PPT模板网是一家专注于分享高质量的免费PPT模板下载网站，包括图表、背景图片、素材、教程等各类PPT模板相关资源。致力于打造国内最大最权威的PPT下载一站式服务平台。",
+              "icon": "/assets/favicon_1756112270209.png",
+              "enabled": true
             }
           ]
         },
