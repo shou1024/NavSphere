@@ -563,6 +563,14 @@
               "description": "无会员无套路免费公益游戏网站",
               "icon": "/assets/favicon_1756107084998.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107176358_dz498fdyf",
+              "title": "微软在线小游戏",
+              "href": "https://www.msn.cn/zh-cn/play/arcade",
+              "description": "微软在线小游戏",
+              "icon": "/assets/favicon_1756107147653.png",
+              "enabled": true
             }
           ]
         },
