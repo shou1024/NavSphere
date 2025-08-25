@@ -733,7 +733,16 @@
           "icon": "Flag",
           "description": "资源导航网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756108726191_ad03y4324",
+              "title": "Imyshare",
+              "href": "https://imyshare.com",
+              "description": "访问 imyshare.com",
+              "icon": "/assets/favicon_1756108703322.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "07f75ba9-742d-46ca-b79f-d0030c1301b1",
