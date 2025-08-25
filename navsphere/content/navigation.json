@@ -927,6 +927,14 @@
               "description": "各类中小学，技能教程",
               "icon": "/assets/favicon_1756110814629.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756110961580_tlgw0gza3",
+              "title": "脚本之家",
+              "href": "https://www.jb51.net",
+              "description": "计算机资讯、教程",
+              "icon": "/assets/favicon_1756110901645.png",
+              "enabled": true
             }
           ]
         },
