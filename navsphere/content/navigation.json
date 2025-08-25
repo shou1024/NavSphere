@@ -716,6 +716,14 @@
               "description": "Adobe全套下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756108669433_pxzv61kv0",
+              "title": "三哥笔记",
+              "href": "https://owgs8g2chb.feishu.cn/docx/GMQMdgVpxo8ciFxeF6QceYQGnlf",
+              "description": "软件资源库",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=owgs8g2chb.feishu.cn",
+              "enabled": true
             }
           ]
         },
