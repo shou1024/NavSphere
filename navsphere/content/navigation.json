@@ -741,6 +741,14 @@
               "description": "访问 imyshare.com",
               "icon": "/assets/favicon_1756108703322.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756108850560_m82ad2fxu",
+              "title": "OSLAW",
+              "href": "https://www.oslaw.cn",
+              "description": "律师 尽调导航 法律尽调 法律科技",
+              "icon": "/assets/favicon_1756108824449.jpeg",
+              "enabled": true
             }
           ]
         },
