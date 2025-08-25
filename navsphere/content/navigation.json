@@ -595,6 +595,14 @@
               "description": "免费单机游戏电影动漫软件分享",
               "icon": "/assets/favicon_1756107392901.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756107470242_sz444pv5b",
+              "title": "Koyso",
+              "href": "https://koyso.to",
+              "description": "无套路直接下载游戏",
+              "icon": "/assets/favicon_1756107442793.ico",
+              "enabled": true
             }
           ]
         },
