@@ -1040,6 +1040,22 @@
               "description": "网盘资源搜索下载",
               "icon": "/assets/favicon_1756111941758.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756112107322_6o6igrtuc",
+              "title": "Abctorrents",
+              "href": "https://abctorrents.xyz",
+              "description": "ABCbt（支持中文）",
+              "icon": "/assets/favicon_1756112073674.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756112116354_i1td5zk05",
+              "title": "Abctorrents",
+              "href": "https://abctorrents.xyz",
+              "description": "ABCbt（支持中文）",
+              "icon": "/assets/favicon_1756112073674.png",
+              "enabled": true
             }
           ]
         },
