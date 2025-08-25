@@ -1065,7 +1065,24 @@
           "icon": "LayoutList",
           "description": "PPT模板",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756112179177_jj22ib6c6",
+              "title": "爱PPT",
+              "href": "https://www.2ppt.com",
+              "description": "访问 www.2ppt.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.2ppt.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1756112184009_36v7xcvc7",
+              "title": "爱PPT",
+              "href": "https://www.2ppt.com",
+              "description": "访问 www.2ppt.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.2ppt.com",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "854ddc58-5319-4185-8ae9-29f05460fd29",
