@@ -439,6 +439,14 @@
               "description": "在线儿童睡前故事",
               "icon": "/assets/favicon_1756046372463.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756281175608_8zglkbsbg",
+              "title": "全本免费小说",
+              "href": "https://www.qbmfxs.com",
+              "description": "全本免费小说收录了当前最新最热门的全本小说和免费小说,提供高质量无错章无错字无弹窗免费在线阅读,是广大网络小说爱好者最值得收藏的网络小说阅读网!",
+              "icon": "/assets/favicon_1756281160507.png",
+              "enabled": true
             }
           ]
         },
