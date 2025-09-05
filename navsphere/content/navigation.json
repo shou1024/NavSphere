@@ -142,6 +142,14 @@
               "description": "飞流视频是一个在线视频媒体平台，致力于提供丰富且最新的内容，如电影、电视剧、动漫、综艺、纪录片等，主要满足用户免费在线观看视频的需求。",
               "icon": "/assets/favicon_1755780826003.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757061426317_rzz6j9myw",
+              "title": "两个BT",
+              "href": "https://bttwo.me",
+              "description": "两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。",
+              "icon": "/assets/favicon_1757061401515.ico",
+              "enabled": true
             }
           ]
         },
