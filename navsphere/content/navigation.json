@@ -158,6 +158,14 @@
               "description": "访问 hellociqryx6e.com",
               "icon": "/assets/favicon_1757061460679.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757082057384_rxfm4x39g",
+              "title": "农民影视",
+              "href": "https://www.nmdvd.cc",
+              "description": "农民影视是一家免费VIP影视在线观看的平台,拥有海量、优质、高清电影和好看的电视剧,清晰画质在线动漫。专业全网收集最新,最好看的电视剧、高清电影、经典动漫、综艺娱乐节目,农民影视以丰富的内容、极致的观看体验、便捷的高速播放、24小时多平台无缝应用体验以及快捷!",
+              "icon": "/assets/favicon_1757082042917.ico",
+              "enabled": true
             }
           ]
         },
