@@ -1374,6 +1374,14 @@
               "description": "磁力 预览工具",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tmp.nulla.top",
               "enabled": true
+            },
+            {
+              "id": "site_1757079907022_3ql6bcntd",
+              "title": "File Transfer - 文件传输",
+              "href": "https://transfer.52python.cn",
+              "description": "简单快速的文件传输工具",
+              "icon": "/assets/favicon_1757079887645.ico",
+              "enabled": true
             }
           ]
         },
