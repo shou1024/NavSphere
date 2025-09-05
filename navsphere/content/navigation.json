@@ -805,6 +805,14 @@
               "description": "提供好用、易用的工具，还在不断添加中，欢迎访问！",
               "icon": "/assets/favicon_1756109865002.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757082211496_7karihenr",
+              "title": "Malimali",
+              "href": "https://www.malimali.com",
+              "description": "动漫导航站",
+              "icon": "/assets/favicon_1757082187506.png",
+              "enabled": true
             }
           ]
         },
