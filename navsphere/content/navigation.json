@@ -479,6 +479,14 @@
               "description": "全本免费小说收录了当前最新最热门的全本小说和免费小说,提供高质量无错章无错字无弹窗免费在线阅读,是广大网络小说爱好者最值得收藏的网络小说阅读网!",
               "icon": "/assets/favicon_1756281160507.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757333852238_0zounkka1",
+              "title": "搜笔趣阁",
+              "href": "https://www.sobqg.com",
+              "description": "访问 www.sobqg.com",
+              "icon": "/assets/favicon_1757333773913.png",
+              "enabled": true
             }
           ]
         },
