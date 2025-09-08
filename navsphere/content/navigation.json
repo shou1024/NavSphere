@@ -1104,14 +1104,6 @@
               "description": "ABCbt（支持中文）",
               "icon": "/assets/favicon_1756112073674.png",
               "enabled": true
-            },
-            {
-              "id": "site_1756112116354_i1td5zk05",
-              "title": "Abctorrents",
-              "href": "https://abctorrents.xyz",
-              "description": "ABCbt（支持中文）",
-              "icon": "/assets/favicon_1756112073674.png",
-              "enabled": true
             }
           ]
         },
