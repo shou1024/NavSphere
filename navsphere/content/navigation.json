@@ -1414,6 +1414,14 @@
               "description": "百度+夸克解析",
               "icon": "/assets/favicon_1757578585815.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757578754368_0z645vyh9",
+              "title": "VoiceCraft",
+              "href": "https://tts.wangwangit.com",
+              "description": "免费AI语音处理平台，支持文字转语音与语音转文字",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tts.wangwangit.com",
+              "enabled": true
             }
           ]
         },
