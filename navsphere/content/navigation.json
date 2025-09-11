@@ -1406,6 +1406,14 @@
               "description": "简单快速的文件传输工具",
               "icon": "/assets/favicon_1757079887645.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757578631905_qx3rj3b7a",
+              "title": "宝儿谷",
+              "href": "https://baoergu.com/user/parse",
+              "description": "百度+夸克解析",
+              "icon": "/assets/favicon_1757578585815.png",
+              "enabled": true
             }
           ]
         },
