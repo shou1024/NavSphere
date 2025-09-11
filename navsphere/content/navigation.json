@@ -578,6 +578,14 @@
               "description": "在线有声小说",
               "icon": "/assets/favicon_1755869234610.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757578460114_ltx69zjqu",
+              "title": "放空一夏",
+              "href": "https://www.fangkong.cc",
+              "description": "放空一夏是一款广播剧搜索工具，支持夸克云盘资源的全文检索，广播剧搜索。",
+              "icon": "/assets/favicon_1757578431463.png",
+              "enabled": true
             }
           ]
         },
