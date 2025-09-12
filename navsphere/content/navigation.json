@@ -780,6 +780,14 @@
               "description": "软件资源库",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=owgs8g2chb.feishu.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1757665118026_7knqnybtk",
+              "title": "暗部共享",
+              "href": "https://rj7.cn",
+              "description": "手机APP破解下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=rj7.cn",
+              "enabled": true
             }
           ]
         },
