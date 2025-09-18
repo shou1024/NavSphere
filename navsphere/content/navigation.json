@@ -223,6 +223,14 @@
               "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
               "icon": "/assets/favicon_1757061609454.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758199969779_4vr3o6qqm",
+              "title": "4K指南",
+              "href": "https://xuexizhinan.com",
+              "description": "网盘分享下载",
+              "icon": "/assets/favicon_1758199919411.png",
+              "enabled": true
             }
           ]
         },
