@@ -495,6 +495,14 @@
               "description": "访问 www.sobqg.com",
               "icon": "/assets/favicon_1757333773913.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758464041557_2zx0hra7o",
+              "title": "经典书库",
+              "href": "https://www.jingdianbook.com",
+              "description": "经典书库免费提供好看的古典武侠小说、名侦探/科幻小说、经济学/哲学及宗教、轻松一刻、儿童睡前故事、传统文学名著等内容。",
+              "icon": "/assets/favicon_1758464027753.png",
+              "enabled": true
             }
           ]
         },
