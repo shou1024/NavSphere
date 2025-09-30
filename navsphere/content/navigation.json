@@ -1462,6 +1462,14 @@
               "description": "免费AI语音处理平台，支持文字转语音与语音转文字",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tts.wangwangit.com",
               "enabled": true
+            },
+            {
+              "id": "site_1759215222438_x50myxnby",
+              "title": "电子礼簿系统",
+              "href": "https://gift-book.static.domains",
+              "description": "适合婚庆，会议，庆典礼单记录",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gift-book.static.domains",
+              "enabled": true
             }
           ]
         },
