@@ -1470,6 +1470,14 @@
               "description": "适合婚庆，会议，庆典礼单记录",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=gift-book.static.domains",
               "enabled": true
+            },
+            {
+              "id": "site_1759217183068_5demvkgl0",
+              "title": "4275极速云",
+              "href": "https://4275.com",
+              "description": "文件中转站，适合文件分享下载",
+              "icon": "/assets/favicon_1759217123633.png",
+              "enabled": true
             }
           ]
         },
