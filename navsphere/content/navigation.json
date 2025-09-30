@@ -511,6 +511,14 @@
               "description": "经典书库免费提供好看的古典武侠小说、名侦探/科幻小说、经济学/哲学及宗教、轻松一刻、儿童睡前故事、传统文学名著等内容。",
               "icon": "/assets/favicon_1758464027753.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759215033842_holaovqf0",
+              "title": "道德经全文",
+              "href": "https://daodejing.shop",
+              "description": "道德经全文在线阅读，包含老子道德经81章原文及参考译文。深入理解道家哲学思想，传承中华文化经典。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=daodejing.shop",
+              "enabled": true
             }
           ]
         },
