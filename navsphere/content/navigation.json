@@ -1299,6 +1299,14 @@
               "description": "恋风壁纸提供高质量电脑壁纸和手机壁纸下载，让您的设备与众不同。免费壁纸，高清壁纸，美丽图片。",
               "icon": "/assets/favicon_1756044423344.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760796118856_w12q5vx8y",
+              "title": "AURA 壁纸",
+              "href": "https://wallaura.cn",
+              "description": "AURA 壁纸是一个干净、舒适、流畅的桌面壁纸应用，提供海量电脑壁纸下载，涵盖风光、动漫、美女、萌宠、国风等分类，精选来自 Windows 聚焦、彼岸图网、wallhaven、Unsplash 等图站高质量内容，每日更新 4K/8K 超清分辨率，满足你的个性化需求！",
+              "icon": "https://wallaura.cn/static/img/favicon-16X16.png",
+              "enabled": true
             }
           ]
         }
