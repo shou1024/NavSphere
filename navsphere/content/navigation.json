@@ -820,6 +820,14 @@
               "description": "手机APP破解下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=rj7.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1760792414360_raabpc3ey",
+              "title": "电视喵",
+              "href": "https://tv.dqtx.cc",
+              "description": "收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.dqtx.cc",
+              "enabled": true
             }
           ]
         },
