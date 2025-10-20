@@ -1584,6 +1584,14 @@
               "description": "中文Google Chrome OS",
               "icon": "/assets/favicon_1756108522336.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760960120265_marlm8ted",
+              "title": "装个机 - 电脑重装指南",
+              "href": "https://zhuangit.ababtools.com",
+              "description": "装个机 - 专业电脑重装系统指南教程网站，提供Windows/Mac重装系统教程、一键重装系统工具、U盘启动盘制作方法、PE工具、系统激活工具，助您轻松完成电脑系统安装",
+              "icon": "/assets/favicon_1760960069800.svg",
+              "enabled": true
             }
           ]
         },
