@@ -763,6 +763,14 @@
               "description": "蒸汽游戏宝库（steambk.com）专注提供高质量Steam及经典单机游戏资源，涵盖热门大作、中文汉化版、免安装整合包下载。支持夸克盘、迅雷、UC等多网盘高速下载，提供最新游戏资讯、补丁、攻略，永久免费，为玩家打造一站式游戏下载平台。",
               "icon": "/assets/favicon_1756108170639.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760949117228_p0u3udt0x",
+              "title": "双鱼游戏君 | Link3",
+              "href": "https://link3.cc/sybk",
+              "description": "手机游戏、PC游戏网盘资源分享",
+              "icon": "/assets/favicon_1760949056061.ico",
+              "enabled": true
             }
           ]
         },
