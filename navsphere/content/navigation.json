@@ -519,6 +519,14 @@
               "description": "道德经全文在线阅读，包含老子道德经81章原文及参考译文。深入理解道家哲学思想，传承中华文化经典。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=daodejing.shop",
               "enabled": true
+            },
+            {
+              "id": "site_1761061450066_vkwtati3q",
+              "title": "古龙小说全集",
+              "href": "https://www.gulongwang.com",
+              "description": "古龙小说全集在线阅读",
+              "icon": "/assets/favicon_1761061402440.png",
+              "enabled": true
             }
           ]
         },
