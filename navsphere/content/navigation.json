@@ -527,6 +527,14 @@
               "description": "古龙小说全集在线阅读",
               "icon": "/assets/favicon_1761061402440.png",
               "enabled": true
+            },
+            {
+              "id": "site_1761743992446_3ebw58efa",
+              "title": "我有一书",
+              "href": "https://www.woyouyishu.com",
+              "description": "我有一书网免费共享网络书籍小说，还有许多影视原著小说免费阅读，希望大家喜欢我们网站！",
+              "icon": "/assets/favicon_1761743971963.png",
+              "enabled": true
             }
           ]
         },
