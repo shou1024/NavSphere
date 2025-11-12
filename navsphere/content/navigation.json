@@ -787,6 +787,14 @@
               "description": "手机游戏、PC游戏网盘资源分享",
               "icon": "/assets/favicon_1760949056061.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1762915042459_ad91is14i",
+              "title": "藏经阁",
+              "href": "https://cangjggame.com/",
+              "description": "游戏攻略查询",
+              "icon": "/assets/favicon_1762914993049.png",
+              "enabled": true
             }
           ]
         },
