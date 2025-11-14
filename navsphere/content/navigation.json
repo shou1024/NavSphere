@@ -1200,6 +1200,14 @@
               "description": "ABCbt（支持中文）",
               "icon": "/assets/favicon_1756112073674.png",
               "enabled": true
+            },
+            {
+              "id": "site_1763125784652_d6vrx9vgx",
+              "title": "软件聚搜 - 聚合软件搜索网站",
+              "href": "https://rjjs.cc/",
+              "description": "聚合软件搜索网站",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=rjjs.cc",
+              "enabled": true
             }
           ]
         },
