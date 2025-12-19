@@ -917,6 +917,14 @@
               "description": "一个简洁现代的友情链接展示网站，汇聚优质博客与个人网站，支持 RSS 订阅和实时更新。",
               "icon": "/assets/favicon_1760497215972.png",
               "enabled": true
+            },
+            {
+              "id": "site_1766159315271_avgs1oeqe",
+              "title": "甲方导航",
+              "href": "https://jiafangbb.com/",
+              "description": "办公摸鱼两不误的网址导航",
+              "icon": "/assets/favicon_1766159262299.png",
+              "enabled": true
             }
           ]
         },
