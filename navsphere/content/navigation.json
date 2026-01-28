@@ -925,6 +925,14 @@
               "description": "办公摸鱼两不误的网址导航",
               "icon": "/assets/favicon_1766159262299.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769584378407_qnjjwux8s",
+              "title": "鱼塘社",
+              "href": "https://www.yutangshe.com/",
+              "description": "在线影视 导航站",
+              "icon": "/assets/favicon_1769584331300.png",
+              "enabled": true
             }
           ]
         },
