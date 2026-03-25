@@ -933,6 +933,14 @@
               "description": "在线影视 导航站",
               "icon": "/assets/favicon_1769584331300.png",
               "enabled": true
+            },
+            {
+              "id": "site_1774443882606_5edyeoyq5",
+              "title": "i8K影视导航 - 最全免费在线影视网站导航 | i8k.tv",
+              "href": "https://i8k.tv/",
+              "description": "i8K影视导航(i8k.tv)汇聚全网最优质的免费影视网站，包括电影、电视剧、动漫、纪录片、综艺等各类影视资源导航。免费在线观看，每日更新。",
+              "icon": "/assets/favicon_1774443874150.png",
+              "enabled": true
             }
           ]
         },
