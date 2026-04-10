@@ -1558,6 +1558,14 @@
               "description": "文件中转站，适合文件分享下载",
               "icon": "/assets/favicon_1759217123633.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775789378961_au3qtew60",
+              "title": "哔哩哔哩音频解析",
+              "href": "https://www.pixcat.cn/lab/biliaudio.php",
+              "description": "哔哩哔哩音频解析",
+              "icon": "/assets/favicon_1775789354538.png",
+              "enabled": true
             }
           ]
         },
