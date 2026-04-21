@@ -949,6 +949,14 @@
               "description": "i8K影视导航(i8k.tv)汇聚全网最优质的免费影视网站，包括电影、电视剧、动漫、纪录片、综艺等各类影视资源导航。免费在线观看，每日更新。",
               "icon": "/assets/favicon_1774443874150.png",
               "enabled": true
+            },
+            {
+              "id": "site_1776780556910_w1h4yl2an",
+              "title": "不想看片",
+              "href": "https://v.bxkp.org/",
+              "description": "网盘、在线、磁力，你的一站式优质影视资源导航站。",
+              "icon": "https://v.bxkp.org/data:image/svg+xml,%3Csvg xmlns=",
+              "enabled": true
             }
           ]
         },
