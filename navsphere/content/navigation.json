@@ -291,14 +291,6 @@
               "enabled": true
             },
             {
-              "id": "site_1755593530009_xek1d9bpq",
-              "title": "王牌短剧",
-              "href": "https://wpdj.wang",
-              "description": "短剧 网盘分享",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wpdj.wang",
-              "enabled": true
-            },
-            {
               "id": "site_1755593568679_h77n4e422",
               "title": "短剧号",
               "href": "https://duanjuhao.top",
@@ -1093,6 +1085,14 @@
               "href": "https://www.gequhai.com",
               "description": "MP3下载",
               "icon": "/assets/favicon_1756110654562.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755593530009_xek1d9bpq",
+              "title": "王牌DJ音乐网",
+              "href": "https://wpdj.wang",
+              "description": "王牌DJ音乐网",
+              "icon": "/assets/favicon_1777300467025.png",
               "enabled": true
             }
           ]
