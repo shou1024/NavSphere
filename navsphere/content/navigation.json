@@ -1094,6 +1094,14 @@
               "description": "王牌DJ音乐网",
               "icon": "/assets/favicon_1777300467025.png",
               "enabled": true
+            },
+            {
+              "id": "site_1777533909756_ij5jd2h56",
+              "title": "Solara",
+              "href": "https://mp3.uncle-n.cc/",
+              "description": "",
+              "icon": "/assets/favicon_1777533887080.svg",
+              "enabled": true
             }
           ]
         },
